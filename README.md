@@ -1,1 +1,1 @@
-# development
+https://andriihrabovskyi.github.io/development/
